@@ -1,0 +1,14 @@
+{
+  "input_csv": "outputs\\skills\\vacancy_skills.csv",
+  "rows": 467,
+  "outputs": {
+    "vacancy_grades": "outputs\\grades\\vacancy_grades.csv",
+    "grade_distribution": "outputs\\grades\\grade_distribution.csv"
+  },
+  "distribution": {
+    "junior": 75,
+    "middle": 140,
+    "intern": 240,
+    "senior": 12
+  }
+}
